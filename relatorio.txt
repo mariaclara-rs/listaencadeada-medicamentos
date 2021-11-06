@@ -1,0 +1,20 @@
+Benin
+	Feminino
+		290-16-8087
+	Masculino
+		Não há usuários
+China
+	Feminino
+		409-95-6118
+	Masculino
+		Não há usuários
+Philippines
+	Feminino
+		877-17-6866
+	Masculino
+		Não há usuários
+Serbia
+	Feminino
+		711-54-2788
+	Masculino
+		Não há usuários
